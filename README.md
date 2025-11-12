@@ -6,7 +6,7 @@
 [![GitHub Repo stars](https://img.shields.io/github/stars/twinodev/Caese_Cipher_Encryption_Decryption.svg?style=social)](https://github.com/twinodev/Caese_Cipher_Encryption_Decryption/stargazers)
 [![Issues](https://img.shields.io/github/issues/twinodev/Caese_Cipher_Encryption_Decryption.svg)](https://github.com/twinodev/Caese_Cipher_Encryption_Decryption/issues)
 
-[<img src="./assets/logo.png" alt="Twinodev" width="64">![TwinoDev]](https://github.com/twinodev)
+[<img src="./assets/logo.png" alt="Twinodev" width="64">](https://github.com/twinodev)
 
 
 A simple command-line Python implementation of a Caesar-style cipher that lets you encrypt and decrypt messages.
