@@ -6,7 +6,7 @@
 [![GitHub Repo stars](https://img.shields.io/github/stars/twinodev/Caese_Cipher_Encryption_Decryption.svg?style=social)](https://github.com/twinodev/Caese_Cipher_Encryption_Decryption/stargazers)
 [![Issues](https://img.shields.io/github/issues/twinodev/Caese_Cipher_Encryption_Decryption.svg)](https://github.com/twinodev/Caese_Cipher_Encryption_Decryption/issues)
 
-[<img src="./assets/logo.png" alt="Twinodev" width="64">](https://github.com/twinodev)
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/VY44H6DSDJKJ4)
 
 
 A simple command-line Python implementation of a Caesar-style cipher that lets you encrypt and decrypt messages.
@@ -109,6 +109,8 @@ Suggested small improvements:
 ## License
 
 This project is licensed under the MIT License — see the included `LICENSE` file for details.
+---
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/VY44H6DSDJKJ4)
 
 ## Author
 
